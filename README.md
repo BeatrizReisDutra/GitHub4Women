@@ -1,2 +1,3 @@
 # GitHub4Women
-Repositorio inicial do curso GuitHub4Women
+Repositorio criado para o curso "GitHub4Women"
+
