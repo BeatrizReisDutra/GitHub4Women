@@ -1,2 +1,2 @@
 # atividadeModulo2
-Atividade do Módulo de Repositorios
+Repositorio inicial do curso GuitHub4Women
