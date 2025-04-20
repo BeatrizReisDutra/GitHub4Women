@@ -1,0 +1,1 @@
+É um arquivo de exemplo pra mostrar como iniciar o repositório com estrutura básica
